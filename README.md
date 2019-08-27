@@ -20,7 +20,7 @@ iOS端2.0版本支持iOS8-iOS12越狱系统
 # 功能说明
 
 ###  1. 如何连接
-在iOS越狱手机安装“flybirdremotecontrol_1.0.deb”，pc电脑下载“飞鸟群控PC端.zip”解压缩，打开flybird.exe,通过手机端的“飞鸟群控”连接。手机和PC必须处于同一局域网内。
+在iOS越狱手机安装“flybirdremotecontrol_2.0.deb”，pc电脑下载“飞鸟群控PC端.zip”解压缩，打开flybird.exe,通过手机端的“飞鸟群控”连接。手机和PC必须处于同一局域网内。
 
 ###  2.主要功能
 通过PC端控制多台iOS越狱手机，支持控制手机50-100台
