@@ -10,6 +10,8 @@ iOS端1.0版本支持iOS8-iOS10越狱系统
 
 iOS端2.0版本支持iOS8-iOS12越狱系统
 
+iOS端3.0版本支持iOS9-iOS13越狱系统
+
 为了能够更好的使用，请使用[unc0ver](https://github.com/pwn20wndstuff/Undecimus)来越狱手机
 # 授权和合作
 本软件pc端、iOS端代码全部为个人自主研发。可以提供更多定制功能和任意形式的合作。合作及授权码联系email:lovetony2019@hotmail.com 
