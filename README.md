@@ -20,9 +20,9 @@ iOS端3.0版本支持iOS9-iOS13越狱系统
 
 
 # PC端截图
-<img src="https://github.com/bandy101/flybirdremotecontroller/blob/master/%E6%88%AA%E5%9B%BE/1.png" width="500px" />
+<img src="https://images.cnblogs.com/cnblogs_com/bandy/1902833/o_2012180838401.png" width="500px" />
 
-<img src="https://github.com/bandy101/flybirdremotecontroller/blob/master/%E6%88%AA%E5%9B%BE/2.png" width="500px" />
+<img src="https://images.cnblogs.com/cnblogs_com/bandy/1902833/o_2012180838482.png" width="500px" />
 
 # 功能说明
 
